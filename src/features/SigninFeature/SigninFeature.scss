@@ -1,0 +1,38 @@
+.signin-feature-container{
+    display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: center;
+
+	width: 100%;
+	height: 100vh;
+	min-height: 100%;
+    
+	background-color: #000D0D;
+    color: #ffffff;
+}
+.signin-feature-header-logo{
+    width: 200px;
+}
+.signin-feature-header-title{
+    margin: 20px 20px;
+    
+    font-weight: 900;
+    font-size: medium;
+}
+.signin-feature-card-box {
+	width: 330px;
+    background-color: #000D0D;
+    
+}
+.ant-card-head-title{
+    color: #FFFFFF;
+    font-size: large;
+}
+.ant-checkbox + span{
+    color: #FFFFFF;
+}
+
+.signin-feature-form-button-submit{
+    width: 100%;
+}
