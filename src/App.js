@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import Signin from './features/SigninFeature';
+import SecurityLayout from './layouts/SecurityLayout';
 
 function App() {
 	return (
 		<div className="App">
-			<Signin />
+			<SecurityLayout />
 		</div>
 	);
 }
